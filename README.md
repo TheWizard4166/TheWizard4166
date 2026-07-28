@@ -1,5 +1,5 @@
 <pre>
-   ___________     **<span style='color: #d44;'>jamesk281</span>@<span style='color: #d44'>sbcglobal.net</span>**
+   ___________     <span style='color: #d44;'>jamesk281</span>@<span style='color: #d44'>sbcglobal.net</span>
   /            \   -----------------------
   | [ 0 ] [ 0 ] |  <span style='color: #d4d'>OS</span>: Linux
   |      /      |  <span style='color: #d4d'>Host</span>: James Bryant
