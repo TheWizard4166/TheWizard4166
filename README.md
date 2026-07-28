@@ -1,5 +1,5 @@
 <pre>
-   ___________     jamesk281@sbcglobal.net
+   ___________     ${\color{red}jamesk281}@${\color{red}sbcglobal.net}
   /            \   -----------------------
   | [ 0 ] [ 0 ] |  OS: Linux
   |      /      |  Host: James Bryant
