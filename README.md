@@ -1,114 +1,15 @@
 <div id="colcontainer" style="display: flex;">
-  <div id="col1">
-      ____________
+      <pre>
+      ____________ 
      /            \
-    | [ 0 ] [ 0 ]  |
-    |      /       |
-    |      |       |
-    |   \______/   |
+     | [ 0 ] [ 0 ] |
+     |      /      |
+     |      |      |
+     |   \______/  |
      \____________/
-  </div>
-
-  <div id="col2">
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-    TEST
-  </div>
+	</pre>
+	
+	 jamesk281@sbcglobal.net
+	 -----------------------------------------
+	 OS
 </div>
