@@ -1,7 +1,3 @@
----
-title: TheWizard4166's github bio
-layout: journey-landing
----
 <pre>
    ___________     **<span style='color: #d44;'>jamesk281</span>@<span style='color: #d44'>sbcglobal.net</span>**
   /            \   -----------------------
