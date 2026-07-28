@@ -1,17 +1,9 @@
-<div id="colcontainer" style="display: flex;">
-      <pre>
-      ____________ 
-     /            \
-     | [ 0 ] [ 0 ] |
-     |      /      |
-     |      |      |
-     |   \______/  |
-     \____________/
-	</pre>
-	<pre>
-	 jamesk281@sbcglobal.net
-	 -------------------------------------------------
-	 OS: Linux
-	 Host: James Bryant
-	</pre>
-</div>
+<pre>
+   ___________     jamesk281@sbcglobal.net
+  /            \   -----------------------
+  | [ 0 ] [ 0 ] |  OS: Linux
+  |      /      |  Host: James Bryant
+  |      |      |  Kernel: What's the Buzz Coffee Beans
+  |   \______/  |  Uptime: 20 Years
+  \____________/
+</pre>
